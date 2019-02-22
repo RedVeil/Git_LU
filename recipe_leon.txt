@@ -5,3 +5,4 @@ Ingredients:
 - Flour
 - Sugar
 - Eggs
+- Salt
